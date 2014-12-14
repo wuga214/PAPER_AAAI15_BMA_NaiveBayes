@@ -15,3 +15,9 @@ To print Data vs Accuracy linear plot of text classification problem, see[src/pl
 To print Feature vs Accuracy linear plot of text classification problem, see[src/plots/FALinearPlot.java].The result will show on consoles as source code of latex. You need copy it on Latex to see the table.
 
 To print time comsuming table of 20 classification problems, see[src/plot/TimeConsumingTable]. The result will show on consoles as source code of latex. You need copy it on Latex to see the table.
+
+Acknowledge:
+The code in this project is based on code of Feature Selection project provided by Rodrigo Santa Cruz[https://code.google.com/p/feature-selection-high-recall/]. Rodrigo estabulished a reliable structure&framework for our further research and implementation.
+
+
+
